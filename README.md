@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Marcos Eduardo Sousa da Silva, tenho 26 anos e sou natural São Luís, Maranhão. Atualmente, estou cursando Desenvolvimento Web. Sou apaixonado por tecnologia e procuro sempre aprender para agregar cada vez mais ao conhecimento e avanço na área".
+Me chamo Marcos Eduardo Sousa da Silva, tenho 26 anos e sou natural São Luís, Maranhão. Atualmente, estou cursando Desenvolvimento Web. Sou apaixonado por tecnologia e procuro sempre aprender para agregar cada vez mais ao conhecimento e avanço na área.
 
 ---
 
